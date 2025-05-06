@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "text-hero-1": "Boho&Ruh",
+    "text-hero-2": "handmade accessories",
+    "link-hero-1": {
+      "href": "#portfolio",
+      "text": "View Catalog"
+    }
+  },
+  "portfolio": [
+    {
+      "img-portfolio-2": "https://images.unsplash.com/photo-1590736704728-f4730bb30770?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzgzMzd8MHwxfHNlYXJjaHwzfHxGYXNoaW9uJTIwJTI2JTIwQWNjZXNzb3JpZXN8ZW58MHx8fHwxNzQ2NTQyMTg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "text-portfolio-4": "Bohemian Bracelet",
+      "text-portfolio-5": "Unique design combining leather and beads for a rustic look."
+    }
+  ]
+}
